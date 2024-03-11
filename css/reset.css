@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: normal;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif;
+    color: #555;
+    background-color: #ffffff;
+    min-width: 1226px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+i {
+    font-family: "iconfont" !important;
+    font-style: normal;
+}
+
+input{
+    outline: none;
+}
